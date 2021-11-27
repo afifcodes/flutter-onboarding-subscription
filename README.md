@@ -6,8 +6,8 @@
 ## Getting Started
 
 ```
-git clone https://github.com/afifudinn/flutter-travel-app
-cd flutter-travel-app
+git clone https://github.com/afifudinn/flutter-onboarding-subscription
+cd flutter-onboarding-subscription
 flutter pub get
 flutter run
 ```
